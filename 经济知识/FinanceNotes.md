@@ -64,13 +64,13 @@ r=(1+b)^a-1
 
 贷款年化利率应以对借款人收取的所有贷款成本与其实际占用的贷款本金的比例计算，并折算为年化形式。贷款年化利率可采用复利或单利方法计算：复利计算方法即内部收益率法；采用单利计算方法的，应说明是单利
 
-![image-20210729172325680](FinanceNotes.assets/image-20210729172325680.png)
+![image-20210729172325680](_images/FinanceNotes.assets/image-20210729172325680.png)
 
-![image-20210729172557429](FinanceNotes.assets/image-20210729172557429.png)
+![image-20210729172557429](_images/FinanceNotes.assets/image-20210729172557429.png)
 
-![image-20210729172738147](FinanceNotes.assets/image-20210729172738147.png)
+![image-20210729172738147](_images/FinanceNotes.assets/image-20210729172738147.png)
 
-![image-20210729172749867](FinanceNotes.assets/image-20210729172749867.png)
+![image-20210729172749867](_images/FinanceNotes.assets/image-20210729172749867.png)
 
 ### 存量博弈 增量博弈
 

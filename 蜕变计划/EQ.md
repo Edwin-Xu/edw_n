@@ -78,7 +78,7 @@ http://www.7k7k.com/flash/16534.htm
 
 情商之父的丹尼尔·戈尔曼 *(Daniel Kahneman)* 曾提出情商五要素：**了解自我、自我情绪、自我激励、识别他人情绪、处理人际关系。**
 
-![image-20211110000110817](EQ.assets/image-20211110000110817.png)
+![image-20211110000110817](_images/EQ.assets/image-20211110000110817.png)
 
 #### 认识自我
 
