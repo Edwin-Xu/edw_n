@@ -1,30 +1,30 @@
 
-# Edwin Xu���˱ʼ�
-> ���˱ʼ�
-## Ŀ¼
+# Edwin Xu个人笔记
+> 个人笔记
+## 目录
 - [README](./README.md)
 - [README_EVERYDAY](./README_EVERYDAY.md)
 - [TempNotes](./TempNotes.md)
-- [���´�ҵ-EdwinXu�Ĵ�����˼ά](./���´�ҵ/EdwinXu�Ĵ�����˼ά.md)
-- [���´�ҵ-��ҵ���֪ʶ](./���´�ҵ/��ҵ���֪ʶ.md)
-- [˼άģ��-�ṹ��˼��](./˼άģ��/�ṹ��˼��.md)
-- [֪ʶ����-��������](./֪ʶ����/��������.md)
-- [֪ʶ����-Ӱ������](./֪ʶ����/Ӱ������.md)
-- [֪ʶ����-��Ƭ֪ʶ](./֪ʶ����/��Ƭ֪ʶ.md)
-- [˽���ĵ�-Dairy](./˽���ĵ�/Dairy.md)
-- [����֪ʶ-FinanceNotes](./����֪ʶ/FinanceNotes.md)
-- [����֪ʶ-StockNotes](./����֪ʶ/StockNotes.md)
-- [����֪ʶ-����������](./����֪ʶ/����������.md)
-- [��������-��־](./��������/��־.md)
-- [��������-˼ά����](./��������/˼ά����.md)
-- [��������-ս����ս��](./��������/ս����ս��.md)
-- [�ɱ�ƻ�-�ɱ�ƻ�](./�ɱ�ƻ�/�ɱ�ƻ�.md)
-- [�ɱ�ƻ�-������ڲ�](./�ɱ�ƻ�/������ڲ�.md)
-- [�Ķ��ʼ�-GodFatherNotes](./�Ķ��ʼ�/GodFatherNotes.md)
-- [�Ķ��ʼ�-���е�ϰ��](./�Ķ��ʼ�/���е�ϰ��.md)
+- [创新创业-EdwinXu的创新性思维](./创新创业/EdwinXu的创新性思维.md)
+- [创新创业-创业相关知识](./创新创业/创业相关知识.md)
+- [思维模型-结构化思考](./思维模型/结构化思考.md)
+- [知识积累-名人名言](./知识积累/名人名言.md)
+- [知识积累-影视名句](./知识积累/影视名句.md)
+- [知识积累-碎片知识](./知识积累/碎片知识.md)
+- [私人文档-Dairy](./私人文档/Dairy.md)
+- [经济知识-FinanceNotes](./经济知识/FinanceNotes.md)
+- [经济知识-StockNotes](./经济知识/StockNotes.md)
+- [经济知识-互联网金融](./经济知识/互联网金融.md)
+- [自我提升-励志](./自我提升/励志.md)
+- [自我提升-思维与格局](./自我提升/思维与格局.md)
+- [自我提升-战略与战术](./自我提升/战略与战术.md)
+- [蜕变计划-蜕变计划](./蜕变计划/蜕变计划.md)
+- [蜕变计划-话术与口才](./蜕变计划/话术与口才.md)
+- [阅读笔记-GodFatherNotes](./阅读笔记/GodFatherNotes.md)
+- [阅读笔记-富有的习惯](./阅读笔记/富有的习惯.md)
 
-## ����˵��
-- �ǳƣ� Edwin Xu
+## 个人说明
+- 昵称： Edwin Xu
 - [GitHub](https://github.com/Edwin-Xu)
 - Email: edwinxu83@gmail.com, 1603837506@qq.com
 - [Pages](https://edwin-xu.github.io/)

@@ -25,11 +25,11 @@ def get_md_list(path, file_name_list):
 # 写入Readme
 def write_to_readme(file_name_list, readme_path, before_text, after_text):
     with open(readme_path, 'w+') as f:
-        f.write(before_text)
+        f.write(before_text.encode('gbk').decode('gbk'))
         for file_name in file_name_list:
             link = '- [%s](%s)\n' % (file_name.replace("./", "").replace("/","-").replace(".md",""), file_name)
-            f.write(link)
-        f.write(after_text)
+            f.write(link.encode('gbk').decode('gbk'))
+        f.write(after_text.encode('gbk').decode('gbk'))
     f.close()
 
 if __name__ == '__main__':
