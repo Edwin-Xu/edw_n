@@ -1,15 +1,31 @@
-# Edwin Xu Notes
 
-Edwin Xuçš„ç§äººæ–‡ä»¶å¤¹
+# Edwin Xu¸öÈË±Ê¼Ç
+> ¸öÈË±Ê¼Ç
+## Ä¿Â¼
+- [README](./README.md)
+- [README_EVERYDAY](./README_EVERYDAY.md)
+- [TempNotes](./TempNotes.md)
+- [´´ÐÂ´´Òµ-EdwinXuµÄ´´ÐÂÐÔË¼Î¬](./´´ÐÂ´´Òµ/EdwinXuµÄ´´ÐÂÐÔË¼Î¬.md)
+- [´´ÐÂ´´Òµ-´´ÒµÏà¹ØÖªÊ¶](./´´ÐÂ´´Òµ/´´ÒµÏà¹ØÖªÊ¶.md)
+- [Ë¼Î¬Ä£ÐÍ-½á¹¹»¯Ë¼¿¼](./Ë¼Î¬Ä£ÐÍ/½á¹¹»¯Ë¼¿¼.md)
+- [ÖªÊ¶»ýÀÛ-ÃûÈËÃûÑÔ](./ÖªÊ¶»ýÀÛ/ÃûÈËÃûÑÔ.md)
+- [ÖªÊ¶»ýÀÛ-Ó°ÊÓÃû¾ä](./ÖªÊ¶»ýÀÛ/Ó°ÊÓÃû¾ä.md)
+- [ÖªÊ¶»ýÀÛ-ËéÆ¬ÖªÊ¶](./ÖªÊ¶»ýÀÛ/ËéÆ¬ÖªÊ¶.md)
+- [Ë½ÈËÎÄµµ-Dairy](./Ë½ÈËÎÄµµ/Dairy.md)
+- [¾­¼ÃÖªÊ¶-FinanceNotes](./¾­¼ÃÖªÊ¶/FinanceNotes.md)
+- [¾­¼ÃÖªÊ¶-StockNotes](./¾­¼ÃÖªÊ¶/StockNotes.md)
+- [¾­¼ÃÖªÊ¶-»¥ÁªÍø½ðÈÚ](./¾­¼ÃÖªÊ¶/»¥ÁªÍø½ðÈÚ.md)
+- [×ÔÎÒÌáÉý-ÀøÖ¾](./×ÔÎÒÌáÉý/ÀøÖ¾.md)
+- [×ÔÎÒÌáÉý-Ë¼Î¬Óë¸ñ¾Ö](./×ÔÎÒÌáÉý/Ë¼Î¬Óë¸ñ¾Ö.md)
+- [×ÔÎÒÌáÉý-Õ½ÂÔÓëÕ½Êõ](./×ÔÎÒÌáÉý/Õ½ÂÔÓëÕ½Êõ.md)
+- [ÍÉ±ä¼Æ»®-ÍÉ±ä¼Æ»®](./ÍÉ±ä¼Æ»®/ÍÉ±ä¼Æ»®.md)
+- [ÍÉ±ä¼Æ»®-»°ÊõÓë¿Ú²Å](./ÍÉ±ä¼Æ»®/»°ÊõÓë¿Ú²Å.md)
+- [ÔÄ¶Á±Ê¼Ç-GodFatherNotes](./ÔÄ¶Á±Ê¼Ç/GodFatherNotes.md)
+- [ÔÄ¶Á±Ê¼Ç-¸»ÓÐµÄÏ°¹ß](./ÔÄ¶Á±Ê¼Ç/¸»ÓÐµÄÏ°¹ß.md)
 
-è¿™æ˜¯æ•´ç†ä¹‹åŽçš„ï¼Œä¹‹å‰ç¬”è®°å¤§å¤šæ•°æ˜¯ä½¿ç”¨wordå†™çš„ï¼ŒçŽ°åœ¨å…¨éƒ¨è½¬åŒ–ä¸ºPDFã€‚
-
-ä»ŠåŽå†™çš„å…¨éƒ¨ä½¿ç”¨MDæ ¼å¼ã€‚
-
-
-
-æ•´åˆäº†ä¹‹å‰çš„å‡ ç±»æ–‡ä»¶ï¼š
-
-- ç§äººæ–‡æ¡£
-- è¯»ä¹¦ç¬”è®°
-
+## ¸öÈËËµÃ÷
+- êÇ³Æ£º Edwin Xu
+- [GitHub](https://github.com/Edwin-Xu)
+- Email: edwinxu83@gmail.com, 1603837506@qq.com
+- [Pages](https://edwin-xu.github.io/)
+    
