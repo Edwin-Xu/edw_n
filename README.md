@@ -15,7 +15,7 @@
 - [知识积累-碎片知识](./知识积累/碎片知识.md)
 - [私人文档-Dairy](./私人文档/Dairy.md)
 - [经济知识-FinanceNotes](./经济知识/FinanceNotes.md)
-- [经济知识-StockNotes](./经济知识/StockNotes.md)
+- [经济知识-StockNotes](./股票/StockNotes.md)
 - [经济知识-互联网金融](./经济知识/互联网金融.md)
 - [自我提升-励志](./自我提升/励志.md)
 - [自我提升-思维与格局](./自我提升/思维与格局.md)
