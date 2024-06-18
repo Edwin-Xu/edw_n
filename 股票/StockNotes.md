@@ -58,6 +58,58 @@
 
 
 
+## 龙头战法
+
+### 核心
+
+![img](_images/StockNotes.asserts/40a9nre9wxi6.png_760w.png)
+
+![img](_images/StockNotes.asserts/lz83jylaoxi6.png_760w.png)
+
+![img](_images/StockNotes.asserts/08a6sy9usxi6.png_760w.png)
+
+![img](_images/StockNotes.asserts/nzxvlsjl8xi6.png_760w.png)
+
+![img](_images/StockNotes.asserts/xemt2qfhxi64.png_760w.png)
+
+![img](_images/StockNotes.asserts/41qrhelxn3xi.png_760w.png)
+
+![img](_images/StockNotes.asserts/h6vpxrqvzxxi.png_760w.png)
+
+![img](_images/StockNotes.asserts/d25atiwbxi64.png_760w.png)
+
+![img](_images/StockNotes.asserts/1ra1q7oigxi6.png_760w.png)
+
+![img](_images/StockNotes.asserts/l79sv6huqxi6.png_760w.png)
+
+![img](_images/StockNotes.asserts/2ib7zsr2ud5x.png_760w.png)
+
+![img](_images/StockNotes.asserts/21s9pneu04dx.png_760w.png)
+
+![img](_images/StockNotes.asserts/mzu3c1079f7x.png_760w.png)
+
+![img](_images/StockNotes.asserts/zmcqt612wvvx.png_760w.png)
+
+![img](_images/StockNotes.asserts/80nasij9122x.png_760w.png)
+
+![img](_images/StockNotes.asserts/cy4besgkajux.png_760w.png)
+
+![img](_images/StockNotes.asserts/g1g22qv17cbx.png_760w.png)
+
+![img](_images/StockNotes.asserts/cdyi2l8a46ux.png_760w.png)
+
+![img](_images/StockNotes.asserts/w99k9datgqxi.png_760w.png)
+
+![img](_images/StockNotes.asserts/3yoejzou5lxi.png_760w.png)
+
+![img](_images/StockNotes.asserts/tfqjm49h7xi6.png_760w.png)
+
+![img](_images/StockNotes.asserts/9h1qydv5etxi.png_760w.png)
+
+![img](_images/StockNotes.asserts/hvjnepna69xi.png_760w.png)
+
+![img](_images/StockNotes.asserts/5lu6bky3oxi6.png_760w.png)
+
 
 
 ## 手法
@@ -672,6 +724,12 @@ ST活跃的时候，市场是较为弱势的。
 
 
 
+
+
+
+
+
+
 ## 板块与核心个股
 
 <p style="color:red;font-weight:bold">每走过一个行情，必须要把相关的板块、核心个股背下来，历史的也需要整理</p>
@@ -930,6 +988,22 @@ https://xueqiu.com/5556116888/235640814
 ### 审美
 
 ## 短线技术分析
+
+
+
+### 涨停研究
+
+#### 涨停形态
+
+无量涨停最强
+
+重组(或收购)是一种大利好，往往连续多个无量涨停，如高新发展收购华鲲振宇，连续10多个一字，无量
+
+且第一次放量断板后，后面调整还会网上
+
+
+
+
 
 ### 总封单金额
 
@@ -2157,6 +2231,49 @@ A股那么多漏洞
 
 # 大神学习
 
+## 桃子哥课
+
+### 系列课程
+
+#### 1.盘口
+
+3.0 100万买，3.1 100卖，此时股价介于二者之间，如果有人3.0卖，则股价显示3.0，如有人3.1买，则显示3.1
+
+#### 2.
+
+
+
+
+
+#### 109
+
+股民
+
+17年1.2E到22年2.2E，市值从10万亿到100万亿
+
+红宝书
+
+消息很重要
+
+
+
+龙：
+
+- 日内龙1、领张龙：日内第一个涨停的
+- 跟风: 除了日内龙1，第一个涨停的
+- 中军：成交额最大的几只跟风
+- 妖二波：老人气妖股跟风，套利性质
+- 空间龙
+- 
+
+转债当日的走势是正股的跟风，能留下来筹码都是对明天竞价的预期。 转债一定会先于体现明天的预期，如果明天正股要低开，转债今天一定会走弱的。
+
+
+
+
+
+
+
 ## 豹老师
 
 也是几个月就做出来的
@@ -3349,6 +3466,36 @@ BUG：大股东减持无限制。
 
 
 
+### RSV
+
+https://news.mbalib.com/story/257222
+
+**未成熟随机值（Raw Stochastic Value, RSV）**：
+
+主要用来评估市场是处于“超买”还是“超卖”状态
+
+**计算方法**：RSV的计算公式为RSV=(收盘价−n日内最低价)/(n日内最高价−n日内最低价)×100，其中n通常设为9或14天
+
+**超买和超卖**：RSV值高于80%通常表示市场处于超买状态，行情可能即将见顶，应当考虑卖出；RSV值低于20%则表示市场处于超卖状态，行情可能即将见底，可以考虑买入
+
+
+
+### RSI
+
+
+
+### BOLL 布林线
+
+### MACD
+
+### KDJ
+
+
+
+### 股息率
+
+- 股票分红与股票价格的比例。
+
 
 
 
@@ -3433,6 +3580,38 @@ https://zhuanlan.zhihu.com/p/90282474
 深圳A指：深圳综指中的A股部分？
 
 ## ETF
+
+
+
+## 可转债
+
+是债券，可以转换成股票
+
+溢价率：可转债的价值再增多%多少，才能转成同市值的股票
+
+比如100%溢价率的可转债1000元，只能换成500元的股票
+
+即：转股损失
+
+涨跌幅：10P
+
+T+0
+
+最低购买单位：10张,与股票100不同
+
+手续费：证券经手费 万0.5
+
+规模：最初的，剩余规模：当前的
+
+
+
+可转债规模代表其为100元时的市值
+
+
+
+
+
+
 
 ## IPO
 
