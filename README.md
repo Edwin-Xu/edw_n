@@ -15,7 +15,7 @@
 - [知识积累-碎片知识](./知识积累/碎片知识.md)
 - [私人文档-Dairy](./私人文档/Dairy.md)
 - [经济知识-FinanceNotes](./经济知识/FinanceNotes.md)
-- [经济知识-StockNotes](./股票/StockNotes.md)
+- 
 - [经济知识-互联网金融](./经济知识/互联网金融.md)
 - [自我提升-励志](./自我提升/励志.md)
 - [自我提升-思维与格局](./自我提升/思维与格局.md)
@@ -24,10 +24,11 @@
 - [蜕变计划-话术与口才](./蜕变计划/话术与口才.md)
 - [阅读笔记-GodFatherNotes](./阅读笔记/GodFatherNotes.md)
 - [阅读笔记-富有的习惯](./阅读笔记/富有的习惯.md)
+- [StockNotes](./股票/StockNotes.md)
+- [我和小明](./股票/我和小明.md)
 
 ## 个人说明
 - 昵称： Edwin Xu
 - [GitHub](https://github.com/Edwin-Xu)
 - Email: edwinxu83@gmail.com, 1603837506@qq.com
 - [Pages](https://edwin-xu.github.io/)
-    
